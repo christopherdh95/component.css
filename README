@@ -1,0 +1,6 @@
+#delete {
+2	  float: right;
+3	}
+4	
+5	textarea, #preview {
+6	  font-family: 'Inconsolata', monospace !important;
